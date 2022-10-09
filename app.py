@@ -151,4 +151,4 @@ class PetFriends:
             result = res.json()
         except:
             result = res.text
-        return status, result
+        return status, result 
