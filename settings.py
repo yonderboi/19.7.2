@@ -1,5 +1,5 @@
-valid_email = 'forteslesson@gmail.com'
-valid_password = 'qwerty'
+valid_email = 'alexK@gmail.com'
+valid_password = 'poiuyt'
 
-invalid_email = 'zimadojd@yandex.ru'
-invalid_password = 'zxcvb'
+invalid_email = 'Kalex@mail.ru'
+invalid_password = 'mnbv23'
