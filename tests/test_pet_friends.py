@@ -194,7 +194,7 @@ def test_get_api_key_with_wrong_email_and_correct_password(email=invalid_email, 
     Проверяем нет ли ключа в ответе'''
     status, result = pf.get_app_key(email, password)
     assert status == 403
-    assert 'key' not in result
+    assert 'key' not in result 
 
 
 
